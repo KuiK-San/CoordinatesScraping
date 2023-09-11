@@ -14,9 +14,9 @@ This is a Python script that performs web scraping on OpenStreetMap to obtain in
 
 2. Install the required Python libraries by running the following command:
 
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
 3. Download the Chrome driver that matches your browser's version from [ChromeDriver Downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads). Make sure to add the path to the ChromeDriver executable to your PATH.
 
