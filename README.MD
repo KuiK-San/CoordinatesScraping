@@ -6,7 +6,7 @@ This is a Python script that performs web scraping on OpenStreetMap to obtain in
 ## Requirements
 
 - Python 3.x
-- Python libraries: requests, selenium, pyperclip
+- Python libraries: requests, selenium
 
 ## Installation
 
@@ -39,7 +39,7 @@ Este é um script Python que realiza web scraping no OpenStreetMap para obter in
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas Python: requests, selenium, pyperclip
+- Bibliotecas Python: requests, selenium
 
 ## Instalação
 
